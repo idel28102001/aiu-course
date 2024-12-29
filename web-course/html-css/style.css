@@ -1,0 +1,14 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.parent {
+    background-color: blue;
+    border: 2px solid grey;
+    margin: 4px;
+    padding: 4px;
+}
+
+.item {
+    background-color: red;
+}
